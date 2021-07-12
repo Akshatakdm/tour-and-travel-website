@@ -1,6 +1,6 @@
 A complete responsive tours and travel website design using html css and vanilla javascript from scratch.
 
-the main feature of this website are:
+The main feature of this website are:
 
 ✔ responsive header / navbar with toggle menu bar effect.
 ✔ responsive header / navbar with search bar.
